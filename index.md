@@ -1,6 +1,8 @@
 ## Welcome
 
-text here
+I am a highly disciplined and driven student at the University of Illinois at Urbana Champaign with concentrations in bioengineering and computer science. 
+
+My understanding of the captivating world that surrounds us is continually molded by the exceptional opportunities I have had. My drive and curiosity in learning and developing skills propels my devotion to such projects and experiences. My focus as an aspiring developer and programmer is on constructing crisp and user-friendly experiences.
 
 ### Markdown
 
