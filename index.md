@@ -7,7 +7,23 @@ My understanding of the captivating world that surrounds us is continually molde
 ## Skills
 
 ```markdown
-Syntax highlighted code block
+
+# HTML & CSS
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML & CSS</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
+# JAVA
 
 public class **Java**
 {
@@ -16,9 +32,31 @@ public class **Java**
 	}
 }
 
-# Header 1
-## Header 2
-### Header 3
+
+# MICROSOFT VISUAL BASIC
+
+      ' Dim as New:
+      Dim vb As New MicrosoftVisualBasic
+      
+      ' Alternatively, Dim and instantiate later:
+      Dim x as MicrosoftVisualBasic
+      Set x = New MicrosoftVisualBasic
+
+# PYTHON
+
+prices = {'mango': 2.50, 'watermelon': 3.50}
+my_purchase = {
+    'mango': 1,
+    'watermelon': 6}
+grocery_bill = sum(prices[fruit] * my_purchase[fruit]
+                   for fruit in my_purchase)
+print 'I owe the grocer $%.2f' % grocery_bill
+
+# SQL
+
+SELECT    netID, FirstName, LastName, DateEnrolled, TotalGrade
+FROM      Csroster
+WHERE     DateEnrolled BETWEEN '1-september-2017' AND '13-december-2017'
 
 - Bulleted
 - List
