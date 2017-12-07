@@ -112,6 +112,10 @@ _June 2013 - September 2013_
 
 Although University life can be extremely hectic, I love exploring my curiosities and passions through traveling, hiking, volunteering, cooking, and photography. Below is a short gallery containing some of my photography, followed by pictures that reflect my love for exploring these curiosities and passions.
 
+<p align="center"> 
+<img src="https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/15730752-10208241338452398-1120734119-n.jpg">
+</p>
+
 ![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/15730752-10208241338452398-1120734119-n.jpg "Buffalo Grove, Illinois")
 ![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/dsc-0080.jpg "Urbana, Illinois")
 ![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/dsc-0061.jpg "Champaign, Illinois")
