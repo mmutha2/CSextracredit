@@ -53,6 +53,8 @@ SELECT    netID, FirstName, LastName, DateEnrolled, TotalGrade
 FROM      Csroster
 WHERE     DateEnrolled BETWEEN '1-september-2017' AND '13-december-2017'
 
+```markdown
+
 ## My Work
 
 **Software Development Intern - AbbVie**
