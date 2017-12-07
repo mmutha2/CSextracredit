@@ -4,6 +4,8 @@ I am a highly disciplined and driven student at the University of Illinois at Ur
 
 My understanding of the captivating world that surrounds us is continually molded by the exceptional opportunities I have had. My drive and curiosity in learning and developing skills propels my devotion to such projects and experiences. My focus as an aspiring developer and programmer is on constructing crisp and user-friendly experiences.
 
+
+
 ## Skills
 
 **HTML & CSS**
@@ -47,6 +49,8 @@ My understanding of the captivating world that surrounds us is continually molde
 	SELECT    netID, FirstName, LastName, DateEnrolled, TotalGrade
 	FROM      Csroster
 	WHERE     DateEnrolled BETWEEN '1-september-2017' AND '13-december-2017'
+
+
 
 
 ## My Work
