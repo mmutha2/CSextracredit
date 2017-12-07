@@ -8,22 +8,21 @@ My understanding of the captivating world that surrounds us is continually molde
 
 **HTML & CSS**
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>HTML & CSS</title>
-</head>
-<body> </body>
-</html>
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<title>HTML & CSS</title>
+	</head>
+	<body> </body>
+	</html>
 
 **JAVA**
 
-public class Java
-{
+	public class Java
+	{
 	public static void main(String[] args) {
-		System.out.println("Java");
+		System.out.println("Java");}
 	}
-}
 
 
 **MICROSOFT VISUAL BASIC**
@@ -37,19 +36,17 @@ public class Java
 
 **PYTHON**
 
-prices = {'python': 2.50, 'monkey': 3.50}
-my_purchase = {
-    'python': 1,
-    'monkey': 6}
-total_bill = sum(prices[exoticanimals] * my_purchase[exoticanimals]
+	prices = {'python': 2.50, 'monkey': 3.50}
+	my_purchase = { 'python': 1, 'monkey': 6}
+	total_bill = sum(prices[exoticanimals] * my_purchase[exoticanimals]
                    for fruit in my_purchase)
-print 'I owe the sales rep $%.2f' % total_bill
+	print 'I owe the sales rep $%.2f' % total_bill
 
 **SQL**
 
-SELECT    netID, FirstName, LastName, DateEnrolled, TotalGrade
-FROM      Csroster
-WHERE     DateEnrolled BETWEEN '1-september-2017' AND '13-december-2017'
+	SELECT    netID, FirstName, LastName, DateEnrolled, TotalGrade
+	FROM      Csroster
+	WHERE     DateEnrolled BETWEEN '1-september-2017' AND '13-december-2017'
 
 
 ## My Work
