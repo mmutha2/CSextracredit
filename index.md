@@ -30,7 +30,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### My Work
 
-insert internships and projects
+Software Development Intern - AbbVie
+April 2016 - Current
+
+○ Part of Quick Hits team, which assists in internal and external operations by quickly developing solutions focused on essential and urgent IT needs
+
+○ Making enhancements to an existing product using SQL, Visual Basic, TOAD, and Visual Studio
 
 ### Get In Touch
 
