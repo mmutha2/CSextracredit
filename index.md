@@ -95,12 +95,11 @@ _June 2013 - September 2013_
 ## Photography
 Although University life can be extremely hectic, I love exploring my curiosities and passions through traveling, hiking, volunteering, cooking, and photography. Below is a short gallery containing some of my photography, followed by pictures that reflect my love for exploring these curiosities and passions.
 
-![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/15730752-10208241338452398-1120734119-n.jpg "leaf")
-![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/dsc-0080.jpg "leaf")
-![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/dsc-0061.jpg "leaf")
-![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/15726159-10208241249290169-1314961271-o.jpg "leaf")
+![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/15730752-10208241338452398-1120734119-n.jpg "Buffalo Grove, Illinois")
+![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/dsc-0080.jpg "Urbana, Illinois")
+![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/dsc-0061.jpg "Champaign, Illinois")
+![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/15726159-10208241249290169-1314961271-o.jpg "Chicago, Illinois")
 
 ## Get In Touch
 
-If you are interested in hearing more about my work or would like to contact me, please do so via email (mmutha2@illinois.edu).
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/monica-muthaiya/ "LinkedIn")
+If you are interested in hearing more about my work or would like to contact me, please do so via email (mmutha2@illinois.edu) or feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/monica-muthaiya/ "LinkedIn")
