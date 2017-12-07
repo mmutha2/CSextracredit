@@ -6,8 +6,6 @@ My understanding of the captivating world that surrounds us is continually molde
 
 ## Skills
 
-```markdown
-
 **HTML & CSS**
 
 <!DOCTYPE html>
@@ -48,13 +46,11 @@ total_bill = sum(prices[exoticanimals] * my_purchase[exoticanimals]
 print 'I owe the sales rep $%.2f' % total_bill
 
 **SQL**
-'
+
 SELECT    netID, FirstName, LastName, DateEnrolled, TotalGrade
 FROM      Csroster
 WHERE     DateEnrolled BETWEEN '1-september-2017' AND '13-december-2017'
-'
 
-```markdown
 
 ## My Work
 
