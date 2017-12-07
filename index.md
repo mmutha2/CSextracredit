@@ -128,12 +128,6 @@ Although University life can be extremely hectic, I love exploring my curiositie
 <img src="https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/15726159-10208241249290169-1314961271-o.jpg">
 </p>
 
-
-![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/15730752-10208241338452398-1120734119-n.jpg "Buffalo Grove, Illinois")
-![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/dsc-0080.jpg "Urbana, Illinois")
-![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/dsc-0061.jpg "Champaign, Illinois")
-![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/15726159-10208241249290169-1314961271-o.jpg "Chicago, Illinois")
-
 <br/>
 
 ---
