@@ -58,6 +58,7 @@ My understanding of the captivating world that surrounds us is continually molde
 ---
 
 **Software Development Intern - AbbVie**
+<br/>
 _April 2016 - Current_
 
 - Part of Quick Hits team, which assists in internal and external operations by quickly developing solutions focused on essential and urgent IT needs
@@ -65,6 +66,7 @@ _April 2016 - Current_
 - Making enhancements to an existing product using SQL, Visual Basic, TOAD, and Visual Studio
 
 **Research Assistant - Magnetic Resonance Functional Imaging Lab**
+<br/>
 _August 2016 - May 2017_
 
 - Performing brain extraction, segmentation, and parsellation of infant brains at approximately 1 month and 3 months of age
@@ -72,6 +74,7 @@ _August 2016 - May 2017_
 - Performing quality control checks: eliminating corrupted data, identifying incomplete data sets, and updating tracking spreadsheet
 
 **Research Assistant - Lifelong Brain and Cognition Laboratory**
+<br/>
 _January 2016 - May 2016_
 
 - Assisted post-doc Dr. Erika Hussey in conducting an experiment involving eye-tracking devices, problem solving, and brain plasticity on subjects
@@ -79,6 +82,7 @@ _January 2016 - May 2016_
 - Utilized a variety of cognitive neuroscience approaches that included neuroimaging, computer-based training and trans-cranial direct-current stimulation (tDCS) to understand skill acquisition
 
 **Summer Research Intern - UIC Biomechanics Laboratory**
+<br/>
 _June 2014 - September 2014_
 
 - Nerve injury occurs in 1-2% of patients who undergo total joint arthroplasty. Injury to the peroneal division of the sciatic nerve is most common, being involved in nearly 80% of the cases.
@@ -88,6 +92,7 @@ _June 2014 - September 2014_
 - If tibial and peroneal divisions of the sciatic nerve are histologically compared, there will be histological differences between the two since the peroneal nerve is less protected and more prone to injury. 
 
 **Summer Research Intern - RUSH University Medical Center**
+<br/>
 _June 2013 - September 2013_
 
 - Ovarian cancer is a type of cancer that forms in tissues of the ovary, in which the ova are formed, and occurs when ovarian cells develop in anunrestrained & unnatural manner. Most women are diagnosed at late stages after tumor metastasis and less than 20% survive 5 years. Early detection methods are clearly needed and a substance that could be measured in blood would be efficient, but most tumor proteins have not proven useful. 
