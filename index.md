@@ -13,14 +13,9 @@ My understanding of the captivating world that surrounds us is continually molde
 <!DOCTYPE html>
 <html>
 <head>
-<title>**HTML & CSS**</title>
+<title>HTML & CSS</title>
 </head>
-<body>
-
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
+<body> </body>
 </html>
 
 **JAVA**
@@ -58,14 +53,7 @@ SELECT    netID, FirstName, LastName, DateEnrolled, TotalGrade
 FROM      Csroster
 WHERE     DateEnrolled BETWEEN '1-september-2017' AND '13-december-2017'
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-
-### My Work
+## My Work
 
 **Software Development Intern - AbbVie**
 April 2016 - Current
