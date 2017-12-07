@@ -6,10 +6,15 @@ My understanding of the captivating world that surrounds us is continually molde
 
 ## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
+
+public class **Java**
+{
+	public static void main(String[] args) {
+		System.out.println("Java");
+	}
+}
 
 # Header 1
 ## Header 2
@@ -54,7 +59,7 @@ January 2016 - May 2016
 **Summer Research Intern - UIC Biomechanics Laboratory**
 June 2014 - September 2014
 
-- Nerve injury occurs in 1-2% of patients who undergo total joint arthroplasty. Injury to the peroneal division of the sciatic nerve is most common, being involved in nearly 80% of the cases. ​
+- Nerve injury occurs in 1-2% of patients who undergo total joint arthroplasty. Injury to the peroneal division of the sciatic nerve is most common, being involved in nearly 80% of the cases.
 
 - The purpose of this study is to compare the histological differences between the peroneal and tibial divisions of the sciatic nerve with or without manual stretching using fresh cadaver material. My experiment focused on the cross-sectional areas of the tibial nerve, in order to be able to compare my data to that of Dr. Amirouche’s.
  
