@@ -8,12 +8,12 @@ My understanding of the captivating world that surrounds us is continually molde
 
 ```markdown
 
-# HTML & CSS
+**HTML & CSS**
 
 <!DOCTYPE html>
 <html>
 <head>
-<title>HTML & CSS</title>
+<title>**HTML & CSS**</title>
 </head>
 <body>
 
@@ -23,9 +23,9 @@ My understanding of the captivating world that surrounds us is continually molde
 </body>
 </html>
 
-# JAVA
+**JAVA**
 
-public class **Java**
+public class Java
 {
 	public static void main(String[] args) {
 		System.out.println("Java");
@@ -33,7 +33,7 @@ public class **Java**
 }
 
 
-# MICROSOFT VISUAL BASIC
+**MICROSOFT VISUAL BASIC**
 
       ' Dim as New:
       Dim vb As New MicrosoftVisualBasic
@@ -42,17 +42,17 @@ public class **Java**
       Dim x as MicrosoftVisualBasic
       Set x = New MicrosoftVisualBasic
 
-# PYTHON
+**PYTHON**
 
-prices = {'mango': 2.50, 'watermelon': 3.50}
+prices = {'python': 2.50, 'monkey': 3.50}
 my_purchase = {
-    'mango': 1,
-    'watermelon': 6}
-grocery_bill = sum(prices[fruit] * my_purchase[fruit]
+    'python': 1,
+    'monkey': 6}
+total_bill = sum(prices[exoticanimals] * my_purchase[exoticanimals]
                    for fruit in my_purchase)
-print 'I owe the grocer $%.2f' % grocery_bill
+print 'I owe the sales rep $%.2f' % total_bill
 
-# SQL
+**SQL**
 
 SELECT    netID, FirstName, LastName, DateEnrolled, TotalGrade
 FROM      Csroster
@@ -64,12 +64,6 @@ WHERE     DateEnrolled BETWEEN '1-september-2017' AND '13-december-2017'
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### My Work
 
