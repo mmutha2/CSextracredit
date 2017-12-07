@@ -13,7 +13,7 @@ My understanding of the captivating world that surrounds us is continually molde
 	<!DOCTYPE html>
 	<html>
 	<head>
-	<title>HTML & CSS</title>
+	<title>HTML and CSS</title>
 	</head>
 	<body> </body>
 	</html>
@@ -49,8 +49,6 @@ My understanding of the captivating world that surrounds us is continually molde
 	SELECT    netID, FirstName, LastName, DateEnrolled, TotalGrade
 	FROM      Csroster
 	WHERE     DateEnrolled BETWEEN '1-september-2017' AND '13-december-2017'
-
-
 
 
 ## My Work
@@ -95,6 +93,6 @@ June 2013 - September 2013
 - Dr. Luborsky and I designed an experiment to further understand the specific nature of SBP1 (Selenium Binding Protein) in hens with and without ovarian cancer, in the hopes of finding a possible biomarker for ovarian cancer. 
 
 
-### Get In Touch
+## Get In Touch
 
 If you are interested in hearing more about my work or would like to contact me, feel free to do so via email (mmutha2@illinois.edu).
