@@ -98,3 +98,4 @@ _June 2013 - September 2013_
 ## Get In Touch
 
 If you are interested in hearing more about my work or would like to contact me, feel free to do so via email (mmutha2@illinois.edu).
+[yo this my linkedin](https://www.linkedin.com/in/monica-muthaiya/ "LinkedIn")
