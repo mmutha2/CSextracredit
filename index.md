@@ -8,7 +8,7 @@ My understanding of the captivating world that surrounds us is continually molde
 
 <br/>
 
----
+
 ## Skills
 ---
 
@@ -56,7 +56,7 @@ My understanding of the captivating world that surrounds us is continually molde
 
 <br/>
 
----
+
 ## My Work
 ---
 
@@ -106,7 +106,7 @@ _June 2013 - September 2013_
 
 <br/>
 
----
+
 ## Photography
 ---
 
