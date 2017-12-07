@@ -98,6 +98,8 @@ Although University life can be extremely hectic, I love exploring my curiositie
 ![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/15730752-10208241338452398-1120734119-n.jpg "leaf")
 ![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/dsc-0080.jpg "leaf")
 ![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/dsc-0061.jpg "leaf")
+![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/15726159-10208241249290169-1314961271-o.jpg "leaf")
+![alt text](https://monicamuthaiya.weebly.com/uploads/9/0/6/8/90688783/15726156-10208241249490174-264268907-o.jpg "leaf")
 
 ## Get In Touch
 
